@@ -137,7 +137,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shivam-Mandal/Shivam-Mandal/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Shivam-Mandal/Shivam-Mandal/output/snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
