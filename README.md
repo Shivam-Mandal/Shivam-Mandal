@@ -27,24 +27,22 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/shivam-mandal-4a2528230" target="blank">
-<img align="center"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-alt="linkedin" height="40" width="40" />
+<a href="https://linkedin.com/in/shivam-mandal-4a2528230" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/Shivam-Mandal" target="blank">
-<img align="center"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-alt="github" height="40" width="40" />
+<a href="https://github.com/Shivam-Mandal" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/Shivam_Mandal" target="blank">
-<img align="center"
-src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-alt="leetcode" height="40" width="40" />
+<a href="https://leetcode.com/u/Shivam_Mandal" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
+</a>
+
+<a href="mailto:shivammandal83404@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
