@@ -54,8 +54,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 💻 Programming Languages
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>&nbsp;&nbsp;
 </p>
 
 ---
@@ -63,10 +63,14 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## ⚛️ Frontend Development
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://reactnative.dev/img/header_logo.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=react" height="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="50"/>&nbsp;&nbsp;
+</p>
+
+<p align="left">
+  <img src="https://reactnative.dev/img/header_logo.svg" height="50"/>&nbsp;&nbsp;
 </p>
 
 ---
@@ -74,8 +78,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🛠 Backend Development
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="50"/>&nbsp;&nbsp;
 </p>
 
 ---
@@ -83,8 +87,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🗄 Databases
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>&nbsp;&nbsp;
 </p>
 
 ---
@@ -92,11 +96,12 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## ☁️ DevOps & Deployment
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="50"/>&nbsp;&nbsp;
 </p>
 
 ### 🚀 Deployment Experience
