@@ -114,16 +114,26 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam-Mandal&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Mandal&theme=tokyonight&hide_border=true" width="48%"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivam-Mandal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivam-Mandal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivam-Mandal&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Contribution Snake
 
-[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivam-Mandal&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shivam-Mandal/Shivam-Mandal/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -178,28 +188,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-# 💼 Professional Experience
-
-## 🚀 Full Stack Developer Intern
-### Vaishali Tech | June 2025 – Sept 2025
-
-- Built and deployed 10+ scalable RESTful APIs
-- Optimized MongoDB queries reducing response time by 30%
-- Improved React UI performance & application scalability
-- Debugged production issues using Chrome DevTools
-
----
-
-## 💻 Web Developer Intern
-### DotPlus Technologies | Jan 2023 – Mar 2023
-
-- Developed Hotel Management System using ASP.NET & SQL Server
-- Improved workflow efficiency by 30%
-- Fixed cross-browser UI issues
-- Worked in Agile sprint-based development
-
----
-
 # 🏅 Achievements
 
 - ✅ Solved 500+ Problems on LeetCode
@@ -207,28 +195,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🥉 3rd Prize in Project Expo for IoT Smart Irrigation System
 - 🎨 2nd Place in Bihar Saptah Painting Competition
 - 🏆 Awarded by Chief Minister Nitish Kumar
-
----
-
-# 🎓 Education
-
-## 🎓 Master of Computer Applications (MCA)
-### Chandigarh University, Punjab
-- CGPA: 8.28/10
-
----
-
-## 🎓 Bachelor of Computer Applications (BCA)
-### L.N. Mishra Institute, Patna
-- CGPA: 8.49/10
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Shivam-Mandal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
